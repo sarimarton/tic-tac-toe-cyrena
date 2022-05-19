@@ -16,7 +16,7 @@
     "cyrena": "^0.20.7",
     "react": "16.8.6",
     "react-dom": "16.8.6",
-    "xstream": "^11.12.0",
+    "xstream": "11.12.0",
     "xstream-sample": "^1.0.0"
   },
   "devDependencies": {
